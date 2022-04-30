@@ -209,6 +209,7 @@
 |`wget http://10.10.10.10:8080/file`|
 
 
+# Otros recursos
 - [Reconocer un sistemas operativos por defecto de ttl ](https://subinsb.com/default-device-ttl-values/)
 - [Uso y ejemplos de hashcat](https://miloserdov.org/?p=5426)
 - [sintaxis de consultas de base de datos](https://docs.oracle.com/cd/E19078-01/mysql/mysql-refman-5.0/information-schema.html#tables-table)
@@ -216,3 +217,4 @@
 - [Cheat Sheet de mfsvenom](https://thedarksource.com/msfvenom-cheat-sheet-create-metasploit-payloads/)
 - [Enumeración de smb ](https://bestestredteam.com/2019/03/15/using-smbclient-to-enumerate-shares/)
 - [Tansferir archivos](https://ironhackers.es/cheatsheet/transferir-archivos-post-explotacion-cheatsheet/)
+- [ruoter ip forwarding](https://deephacking.tech/configurar-linux-para-que-actue-como-router-ip-forwarding/)
