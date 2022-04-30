@@ -1,4 +1,4 @@
-# Cheatsheet-eJPT
+# Cheat sheet-eJPT
 
 - [Comandos básicos](#comandos-básicos)
 - [Enumeración de OS](#enumeración-de-ossistema-operativo)
